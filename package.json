@@ -1,0 +1,22 @@
+{
+  "name": "@machinomy/types-ethereumjs-abi",
+  "version": "1.0.0",
+  "description": "TypeScript declaration for ethereumjs-abi",
+  "main": "index.d.ts",
+  "types": "index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/machinomy/types-ethereumjs-abi.git"
+  },
+  "author": "Sergey Ukustov <sergey.ukustov@machinomy.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/machinomy/types-ethereumjs-abi/issues"
+  },
+  "homepage": "https://github.com/machinomy/types-ethereumjs-abi#readme",
+  "devDependencies": {},
+  "dependencies": {
+    "ethereumjs-abi": "https://github.com/ethereumjs/ethereumjs-abi",
+    "safe-buffer": "^5.1.2"
+  }
+}
