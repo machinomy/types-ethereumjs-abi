@@ -16,7 +16,6 @@
   "homepage": "https://github.com/machinomy/types-ethereumjs-abi#readme",
   "devDependencies": {},
   "dependencies": {
-    "ethereumjs-abi": "https://github.com/ethereumjs/ethereumjs-abi",
-    "safe-buffer": "^5.1.2"
+    "@types/node": "^12.6.8"
   }
 }
